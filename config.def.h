@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono Medium:pixelsize=15:antialias=true:autohint=true";
+static char *font = "JetBrains Mono Medium:pixelsize=16:antialias=true:autohint=true";
 /*spare fonts*/
 static char *font2[] = {
     "Hack Nerd Font:pixelsize=15:antialias=true:autohint=true", // Powerline
@@ -102,7 +102,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.7;
+float alpha = 0.8;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
