@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono Medium:pixelsize=16:antialias=true:autohint=true";
+static char *font = "JetBrains Mono Nerd Font:pixelsize=17:antialias=true:autohint=true";
 /*spare fonts*/
 static char *font2[] = {
     "Hack Nerd Font:pixelsize=15:antialias=true:autohint=true", // Powerline
@@ -102,7 +102,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.8;
+float alpha = 1.0;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
@@ -112,7 +112,7 @@ static const char *colorname[] = {
 	"green3",
 	"yellow3",
 	"blue2",
-	"magenta3",
+	"magenta2",
 	"cyan3",
 	"gray90",
 
@@ -131,7 +131,8 @@ static const char *colorname[] = {
 	/* more colors can be added after 255 to use with DefaultXX */
 	"#cccccc",
 	"#555555",
-	"black",
+	"#282c34",
+	"#bbc2cf",
 };
 
 
@@ -139,7 +140,7 @@ static const char *colorname[] = {
  * Default colors (colorname index)
  * foreground, background, cursor, reverse cursor
  */
-unsigned int defaultfg = 7;
+unsigned int defaultfg = 259;
 unsigned int defaultbg = 258;
 static unsigned int defaultcs = 256;
 static unsigned int defaultrcs = 257;/*
