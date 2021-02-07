@@ -35,4 +35,5 @@ Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 ## Screenshots:
  ### Vim
  ![Screenshots](https://github.com/ankitjosh78/dwm/blob/main/screenshots/vim.png?raw=true)
-
+ ### Master and Stack Layout:
+ ![Screenshots](https://github.com/ankitjosh78/dwm/blob/main/screenshots/master_stack.png?raw=true)
