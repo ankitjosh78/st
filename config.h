@@ -7,8 +7,8 @@
  */
 static char *font = "JetBrains Mono Medium:pixelsize=14:antialias=true:autohint=true";
 /*spare fonts*/
-static char *font2[] = { "JoyPixels:pixelsize=12:antialias=true:autohint=true" };
-static char *font3[] = { "FontAwesome:pixelsize=12:antialias=true:autohint=true" };
+static char *font2[] = { "JoyPixels:pixelsize=13:antialias=true:autohint=true" };
+static char *font3[] = { "FontAwesome:pixelsize=13:antialias=true:autohint=true" };
 
 
 static int borderpx = 2;
@@ -99,7 +99,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.7;
+float alpha = 0.70;
 #include "/home/ankit/.cache/wal/colors-wal-st.h"
 /* Terminal colors (16 first used in escape sequence) */
 /*
