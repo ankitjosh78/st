@@ -28,9 +28,6 @@ the st terminfo entry with the following command:
 
 See the man page for additional details.
 
-Credits
--------
-Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 
 ## Screenshots:
  ![Screenshots](https://github.com/ankitjosh78/st/blob/master/ss/st.png?raw=true)
