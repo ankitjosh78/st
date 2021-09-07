@@ -14,4 +14,4 @@ If necessary run as root.
     make clean install
 
 ## Screenshots:
- ![Screenshots](https://github.com/ankitjosh78/dwm/blob/master/ss/vim.png?raw=true)
+ ![Screenshots](https://github.com/ankitjosh78/dwm/blob/main/ss/vim.png?raw=true)
