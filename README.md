@@ -14,6 +14,4 @@ If necessary run as root.
     make clean install
 
 ## Screenshots:
- ![Screenshots](https://github.com/ankitjosh78/st/blob/master/ss/st.png?raw=true)
- ![Screenshots](https://github.com/ankitjosh78/st/blob/master/ss/st_vim.png?raw=true)
- ![Screenshots](https://github.com/ankitjosh78/st/blob/master/ss/st_neofetch.png?raw=true)
+ ![Screenshots](https://github.com/ankitjosh78/dwm/blob/master/ss/vim.png?raw=true)
